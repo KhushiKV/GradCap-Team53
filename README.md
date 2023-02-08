@@ -1,4 +1,5 @@
 # Team 53 - MoveSafe Road Safety Solution - Software and AI
+<img src="https://user-images.githubusercontent.com/122287288/217526152-0fbfc200-7a5c-4193-84ce-70557637e4c3.png" width="300" height="100">
 
 ### InterIIT Techmeet 11.0 - Seeking Secrets to Startup Stardom
 
