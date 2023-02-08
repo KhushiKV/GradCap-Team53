@@ -3,11 +3,10 @@
 ### InterIIT Techmeet 11.0 - Seeking Secrets to Startup Stardom
 
 ## Requirements
-* Python 3.8
+* opencv-contrib-python==4.4.0.46
 * Tensorflow 2.x and keras
 * numpy
 * pandas
-* OpenCV
 * os
 * sklearn
 * pytube
