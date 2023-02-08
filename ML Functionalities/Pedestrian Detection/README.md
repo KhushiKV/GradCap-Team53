@@ -14,7 +14,7 @@
 
 Follow the `Pedestrian.py` file for using the model. A sample video file is also provided for demonstration. `Bounding box` is created on the pedestrian passing by along with beep alert.
 
-![Screenshot (577)](https://user-images.githubusercontent.com/122287288/217521259-a3b09bd1-1c53-418e-b9b5-b6ef100a1d96.png)
+![2023-02-06 13-13-05](https://user-images.githubusercontent.com/122287288/217533615-b6c765b0-3a21-4917-8556-00e49ab8f3b9.gif)
 
 ### References
 * [YOLOv3](https://pjreddie.com/darknet/yolo/)
