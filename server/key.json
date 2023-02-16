@@ -1,12 +1,1 @@
-{
-    "type": "service_account",
-    "project_id": "startup-stardom",
-    "private_key_id": "d16d1e6956a69f6d5d58b058303fd72ce845bb1d",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5e+6fC1tIO2/J\nnv6RNNQoLFaHzw13rtpRaL23TZiTFPpkrFyU82KqowyPlmfI09FqYB7gfq9vN1Ia\nQ0e4Y6anju8RUYrpE8g9yYwpkNe9d2998n33C2zUI9fakqym4mpvHnLjrbFUP7m3\naRKn6DNl9OzyhOaT8zkF4zPFeh2pSo5Dp6GC2t5E9Hlq+tP3sAUIPkO7ffco+GTd\nxs2InDuPMJ0SchaSjsRLQ0uCdK3P82QUv2bTZkElsz6eV6meWwlEKLhfNWX+kBbA\n6136R4d+WGn+3++MQMKVhtDCsjhOEPunE2AfkcMlAxL5qtfpLe5v2IUbFvWinEEP\nGJex/VodAgMBAAECggEAPBzJo1rDXSACJSY1m2qzHUftTTtRwol08LBQ19C6k2RX\nl/vyT0WnouSPxBM7FG9tbZu0Ng5ondMgdSl722rUTnZ4zTSPn+UM3tVsauYpvRox\nlHBb2Y4m2YO6R3iEots7IkMMefRHRaYXcrUHWkpbKf5cMmbW8XkAcIOHOkdOyJe3\nGJDEJ1WQb7HfZ5ZW6BTOB344eQ6wYL8iUueGiziKTkzsB4mtNdjCcZuOZM9lxXkS\n7kstjOPsrpWqHJK+VT49Br46X3BrhXQDOtWAeGEUyADyvFoP9XIlWeyKP3EuO6dF\nk0b0Z2bzhLeZ1VMoavWpc4VH4pLKvdn2N6VHO8m8owKBgQDmVsTvJcLLQOZVm/K5\nkOkioFjfwu3rixoMvUk1/hNh1yA9N0rC/1kQqYfduRuRlWGD8c7gZy/a7DyougoO\n85rc7g67F+ac9xmMdJ3R+U3yzYHWmXgwLXRhzgqer6F4st4OJNaNpJfFABA9exKX\n1WbtlS6u3xUGL/BiMtibnCwaEwKBgQDOJej2L0vFvafnrsfnH3TnjIQhDidY/3AC\nlhHO+dx5VT0RrkJ6mjgN9vWBm/upijZEi7P6iNtWgdl1xhBaFMGOWHwl0RzEB1eU\ncUjoqaygXPPU4e70WvI3A8N5nYgEVy8IKdQPrN2e9CBbiwJqljnmV2Kd4d3w9Xfd\n8vU3HTNBDwKBgF8T+f5tK9cSVwGHec23T0SHw6e5otPTe1E+4PV0hzOfxSL/q9CJ\n7o2+LOMNAaA6dSItsiNW9J39XZyYDobVb1s6uMHpv7uTE+yyRmLh8ZcD1VBr0Pyy\nBpRIpIGUJabYzmgwNJALHMqomAuIvcgGwpHXPonYc6k2KJegPWEeOeYZAoGBAKwQ\nLmMVVOxmgXe6hbXepqgBu+MPOj5pbmdqNNEJ8kD/qWpRhcFpaXIWeBJHTIXVC7io\n1n89rb2FwikwOUPG4UtbhbvWz2i7LBmFeLJhtOlgzFAaiGVCZ7sNlCG1H+tnjaUF\nrK+svIpI/50I6OpoG0msFG7tMF9Hs1X4zT3ETJx3AoGAWSE15Nvaib6sgTIfKtwz\nZLZyMCllN/so2zYrZqXXP7qq5avmlpwdr1sF5Q4Yby+ElI4ItZg5ogRLDKmHENVa\n/pX25ajpB1YuvnLL8Dawq6FiQEl3DosnnTM2MHBI+QO7sSnzTnTuMXvJWLodmD4w\nrQDYU47xzI4ZjPLs6c4X7Vc=\n-----END PRIVATE KEY-----\n",
-    "client_email": "firebase-adminsdk-rthb7@startup-stardom.iam.gserviceaccount.com",
-    "client_id": "109503603672609312337",
-    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-    "token_uri": "https://oauth2.googleapis.com/token",
-    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-rthb7%40startup-stardom.iam.gserviceaccount.com"
-}
+
