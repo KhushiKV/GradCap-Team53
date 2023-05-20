@@ -8,7 +8,7 @@ We propose an automated car accident prevention system that can detect potential
 drivers to take evasive action, reducing the risk of collisions and injuries on the road, along with the
 provision of post-accident assistance.
 
-<img width="640" alt="image" src="https://user-images.githubusercontent.com/122287288/217522485-c16547ce-cdd3-46bc-8d8d-b75a016e1eef.png">
+![Step 1 submission (1)](https://github.com/team53-interiit-11/GradCap-Team53/assets/81608921/8804d0a6-37a2-4697-9be1-f582cbea850c)
 
 ### 
 * [Presentation](https://docs.google.com/presentation/d/1_Tkh1lPt-1Cj6wVx2iUK4uiASRPQVmz_eB_kLaLYO6U/edit#slide=id.g1f073591258_0_43)
